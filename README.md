@@ -49,6 +49,6 @@ Bem-vindo ao projeto **Amigo Secreto**! Este é um aplicativo simples e divertid
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/lucasespedito/amigo-secreto.git
    ```
 2. Navegue até o diretório do projeto:
